@@ -1,0 +1,256 @@
+---
+title: "Spectrum reading training"
+output: ioslides_presentation
+---
+
+
+## Down and town?
+
+![](audio_merged/by_slide_pictures/slide_01.png)
+
+
+## Ego and echo?
+
+![](audio_merged/by_slide_pictures/slide_02.png)
+
+
+## Sin, tin and chin?
+
+![](audio_merged/by_slide_pictures/slide_03.png)
+
+
+## He, fee and sea?
+
+![](audio_merged/by_slide_pictures/slide_04.png)
+
+
+## Zed and set?
+
+![](audio_merged/by_slide_pictures/slide_05.png)
+
+
+## Vast and fast?
+
+![](audio_merged/by_slide_pictures/slide_06.png)
+
+
+## Shine and sign?
+
+![](audio_merged/by_slide_pictures/slide_07.png)
+
+
+## Knock, mock and lock?
+
+![](audio_merged/by_slide_pictures/slide_08.png)
+
+
+## Thing, sing and finger?
+
+![](audio_merged/by_slide_pictures/slide_09.png)
+
+
+## Creep, keep and reap?
+
+![](audio_merged/by_slide_pictures/slide_10.png)
+
+
+## Height, fight and hide?
+
+![](audio_merged/by_slide_pictures/slide_11.png)
+
+
+## Sin, sing and seem?
+
+![](audio_merged/by_slide_pictures/slide_12.png)
+
+
+## Tune and chew?
+
+![](audio_merged/by_slide_pictures/slide_13.png)
+
+
+## Live and leave?
+
+![](audio_merged/by_slide_pictures/slide_14.png)
+
+
+## Rate, wait and late?
+
+![](audio_merged/by_slide_pictures/slide_15.png)
+
+
+## Call and core?
+
+![](audio_merged/by_slide_pictures/slide_16.png)
+
+
+## They and way?
+
+![](audio_merged/by_slide_pictures/slide_17.png)
+
+
+## Pay, play and lay?
+
+![](audio_merged/by_slide_pictures/slide_18.png)
+
+
+## Trace and chase?
+
+![](audio_merged/by_slide_pictures/slide_19.png)
+
+
+## Quit, wit, fit and bit?
+
+![](audio_merged/by_slide_pictures/slide_20.png)
+
+
+## Merry and marry?
+
+![](audio_merged/by_slide_pictures/slide_21.png)
+
+
+## Word and world?
+
+![](audio_merged/by_slide_pictures/slide_22.png)
+
+
+## Last and lost?
+
+![](audio_merged/by_slide_pictures/slide_23.png)
+
+
+## Least and list?
+
+![](audio_merged/by_slide_pictures/slide_24.png)
+
+
+## Law, loo and low?
+
+![](audio_merged/by_slide_pictures/slide_25.png)
+
+
+## Car
+
+![](audio_merged/by_slide_pictures/slide_26.png)
+
+
+## Herb
+
+![](audio_merged/by_slide_pictures/slide_27.png)
+
+
+## Butter
+
+![](audio_merged/by_slide_pictures/slide_28.png)
+
+
+## Writer
+
+![](audio_merged/by_slide_pictures/slide_29.png)
+
+
+## Private
+
+![](audio_merged/by_slide_pictures/slide_30.png)
+
+
+## Dance
+
+![](audio_merged/by_slide_pictures/slide_31.png)
+
+
+## Fragile
+
+![](audio_merged/by_slide_pictures/slide_32.png)
+
+
+## Military
+
+![](audio_merged/by_slide_pictures/slide_33.png)
+
+
+## Laboratory
+
+![](audio_merged/by_slide_pictures/slide_34.png)
+
+
+## Fantasy, legend or myth?
+
+![](audio_merged/by_slide_pictures/slide_35.png)
+
+
+## Puma, panther or panda?
+
+![](audio_merged/by_slide_pictures/slide_36.png)
+
+
+## Joker, ace or jack?
+
+![](audio_merged/by_slide_pictures/slide_37.png)
+
+
+## Lemon, orange or lime?
+
+![](audio_merged/by_slide_pictures/slide_38.png)
+
+
+## Spanish, French or English?
+
+![](audio_merged/by_slide_pictures/slide_39.png)
+
+
+## Lavender, daffodil or hyacinth?
+
+![](audio_merged/by_slide_pictures/slide_40.png)
+
+
+## Antelope, elephant or opossum?
+
+![](audio_merged/by_slide_pictures/slide_41.png)
+
+
+## Avocado, apple or apricot?
+
+![](audio_merged/by_slide_pictures/slide_42.png)
+
+
+## Regression, aggression or depression?
+
+![](audio_merged/by_slide_pictures/slide_43.png)
+
+
+## Pistachio, peanut or hazelnut?
+
+![](audio_merged/by_slide_pictures/slide_44.png)
+
+
+## Sunrise, sunset or zenith?
+
+![](audio_merged/by_slide_pictures/slide_45.png)
+
+
+## Tsunami, typhoon or tornado?
+
+![](audio_merged/by_slide_pictures/slide_46.png)
+
+
+## Plosive, prosody or palatal?
+
+![](audio_merged/by_slide_pictures/slide_47.png)
+
+
+## Vowel, voice or velar?
+
+![](audio_merged/by_slide_pictures/slide_48.png)
+
+
+## Tuba, trumpet or drum?
+
+![](audio_merged/by_slide_pictures/slide_49.png)
+
+
+## Satire, story or sequel?
+
+![](audio_merged/by_slide_pictures/slide_50.png)
+
+

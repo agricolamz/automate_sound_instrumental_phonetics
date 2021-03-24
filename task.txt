@@ -1,0 +1,100 @@
+# Down and town?
+down town
+# Ego and echo?
+echo ego
+# Sin, tin and chin?
+tin chin sin
+# He, fee and sea?
+sea fee he
+# Zed and set?
+zed set
+# Vast and fast?
+vast fast
+# Shine and sign?
+sign shine
+# Knock, mock and lock?
+knock lock mock
+# Thing, sing and finger?
+finger sing thing
+# Creep, keep and reap?
+keep reap creep
+# Height, fight and hide?
+fight height hide
+# Sin, sing and seem?
+seem sin sing
+# Tune and chew?
+tune chew
+# Live and leave?
+leave live
+# Rate, wait and late?
+wait late rate
+# Call and core?
+call core
+# They and way?
+they way
+# Pay, play and lay?
+lay pay play
+# Trace and chase?
+chase trace
+# Quit, wit, fit and bit?
+bit wit fit quit
+# Merry and marry?
+marry merry
+# Word and world?
+word world
+# Last and lost?
+last lost
+# Least and list?
+least list
+# Law, loo and low?
+low loo law
+# Car
+car.am
+# Herb
+herb.am
+# Butter
+butter.am
+# Writer
+writer.am
+# Private
+private.am
+# Dance
+dance.am
+# Fragile
+fragile.am
+# Military
+military.am
+# Laboratory
+laboratory.am
+# Fantasy, legend or myth?
+fantasy
+# Puma, panther or panda?
+panda
+# Joker, ace or jack?
+jack
+# Lemon, orange or lime?
+lime
+# Spanish, French or English?
+French
+# Lavender, daffodil or hyacinth?
+lavender
+# Antelope, elephant or opossum?
+antelope
+# Avocado, apple or apricot?
+apple
+# Regression, aggression or depression?
+aggression
+# Pistachio, peanut or hazelnut?
+hazelnut
+# Sunrise, sunset or zenith?
+sunrise
+# Tsunami, typhoon or tornado?
+typhoon
+# Plosive, prosody or palatal?
+prosody
+# Vowel, voice or velar?
+vowel
+# Tuba, trumpet or drum?
+trumpet
+# Satire, story or sequel?
+story
